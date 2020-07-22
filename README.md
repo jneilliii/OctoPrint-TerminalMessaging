@@ -1,6 +1,8 @@
 # Terminal Messaging
 
-**TODO:** Describe what your plugin does.
+This plugin simply adjust the terminal output to look like a text message dialog using chat bubbles.
+
+![thumbnail](screenshot.png)
 
 ## Setup
 
@@ -9,9 +11,3 @@ or manually using this URL:
 
     https://github.com/jneilliii/OctoPrint-TerminalMessaging/archive/master.zip
 
-**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
-the plugin manager.
-
-## Configuration
-
-**TODO:** Describe your plugin's configuration options (if any).
