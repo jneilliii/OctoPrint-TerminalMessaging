@@ -1,4 +1,4 @@
-#terminal-output span.muted {
+#terminal-output span {
     display: none;
 }
 
@@ -15,6 +15,7 @@
     color: #ffffff;
     float: right;
     margin-top: 10px;
+    display: block;
 }
 
 #terminal-output span.received:before {
@@ -43,6 +44,7 @@
     color: #000;
     float: left;
     margin-top: 10px;
+    display: block;
 }
 
 #terminal-output span.sent:before {
