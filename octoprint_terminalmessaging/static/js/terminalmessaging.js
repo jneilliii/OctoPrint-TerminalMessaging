@@ -11,8 +11,8 @@ $(function() {
 		self.terminalViewModel = parameters[0];
 
 		self.terminalViewModel.log.subscribe(function(){
-		    $('#terminal-output span:contains("Recv:")').addClass('received');
-            $('#terminal-output span:contains("Send:")').addClass('sent');
+		    $('#terminal-output span:contains("Recv:")').addClass('received').text(function(){return $(this).text().replace('Recv: ','');});
+            $('#terminal-output span:contains("Send:")').addClass('sent').text(function(){return $(this).text().replace('Send: ','');});
         })
 	}
 
