@@ -6,8 +6,7 @@ This plugin simply adjust the terminal output to look like a text message dialog
 
 ## Setup
 
-Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
-or manually using this URL:
+Install manually using this URL in Plugin Manager > Get More > ...from URL:
 
     https://github.com/jneilliii/OctoPrint-TerminalMessaging/archive/master.zip
 
