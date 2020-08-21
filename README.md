@@ -11,6 +11,7 @@ This plugin simply adjust the terminal output to look like a text message dialog
 - Gerald Dachs
 - [@TheTuxKeeper](https://github.com/thetuxkeeper)
 - @tideline3d
+- [SimplyPrint](https://simplyprint.dk/)
 
 ## Setup
 
