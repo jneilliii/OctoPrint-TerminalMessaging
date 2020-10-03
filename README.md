@@ -1,5 +1,7 @@
 # Terminal Messaging
 
+**Unmainainted**: This plugin is unmaintained and was created as a proof of concept for an issue posted on the OctoPrint repo. Please see the official version that was adopted from this POC over [here](https://plugins.octoprint.org/plugins/terminalmessaging/) for feature requests or issues.
+
 This plugin simply adjust the terminal output to look like a text message dialog using chat bubbles.
 
 ![thumbnail](screenshot.png)
